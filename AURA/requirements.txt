@@ -1,0 +1,16 @@
+# AURA - Requirements
+# Python dependencies for Host Processing System
+
+# Computer Vision
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# YOLO Object Detection
+ultralytics>=8.0.0
+
+# Text-to-Speech
+pyttsx3>=2.90
+
+# Optional: For better performance with GPU
+# torch>=2.0.0
+# torchvision>=0.15.0

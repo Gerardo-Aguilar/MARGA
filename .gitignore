@@ -1,0 +1,51 @@
+```
+# Dependencies
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.env
+.env.local
+*.env.*
+
+# Build artifacts
+.build/
+dist/
+build/
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.exe
+*.out
+
+# PlatformIO specific
+.platformio/
+.pio/
+.piolibdeps/
+
+# ESP32/Arduino
+*.bin
+*.hex
+*.elf
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+```
